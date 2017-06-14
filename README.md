@@ -6,3 +6,5 @@ https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap?
 
 memory leak
 https://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java?page=1&tab=votes#tab-top
+
+http://www.journaldev.com/4098/java-heap-space-vs-stack-memory
