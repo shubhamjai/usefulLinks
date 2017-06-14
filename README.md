@@ -12,3 +12,5 @@ http://www.journaldev.com/4098/java-heap-space-vs-stack-memory
 https://softwareengineering.stackexchange.com/questions/256662/when-i-create-an-object-is-fresh-memory-allocated-to-both-instance-fields-and-m
 
 https://stackoverflow.com/questions/19414734/understanding-spring-autowired-usage
+
+https://stackoverflow.com/questions/24014919/converting-spring-xml-file-to-spring-configuration-class
