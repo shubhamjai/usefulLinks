@@ -19,3 +19,4 @@ https://stackoverflow.com/questions/19896870/why-is-my-spring-autowired-field-nu
 
 Thread Interrupts
 https://stackoverflow.com/questions/2126997/who-is-calling-the-java-thread-interrupt-method-if-im-not
+https://docs.oracle.com/javase/tutorial/essential/concurrency/interrupt.html
