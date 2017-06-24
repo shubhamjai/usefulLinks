@@ -16,3 +16,6 @@ https://stackoverflow.com/questions/19414734/understanding-spring-autowired-usag
 https://stackoverflow.com/questions/24014919/converting-spring-xml-file-to-spring-configuration-class
 
 https://stackoverflow.com/questions/19896870/why-is-my-spring-autowired-field-null?rq=1
+
+Thread Interrupts
+https://stackoverflow.com/questions/2126997/who-is-calling-the-java-thread-interrupt-method-if-im-not
